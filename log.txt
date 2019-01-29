@@ -820,3 +820,395 @@ Album: Future & Juice WRLD Present... WRLD ON DRUGS
 ---------------------------------------------------
 
 Preview: null
+
+--------------------------------
+
+Date: 02/19/2019
+Name: Brisbane Entertainment Centre
+
+---------------------------------------------------
+
+Date: 02/21/2019
+
+--------------------------------
+
+Name: Qudos Bank Arena
+City: Sydney
+Country: Australia
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Country: Australia
+City: Brisbane
+Date: 02/22/2019
+Name: Rod Laver Arena
+City: Melbourne
+Country: Australia
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 02/25/2019
+Name: Tokyo Dome
+Country: Tokyo
+City: Tokyo
+Country: Japan
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 02/27/2019
+Name: Gocheok Sky Dome
+City: Seoul
+Country: South Korea
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 03/01/2019
+Name: TBA
+City: Kaohsiung City
+Country: Taiwan
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 03/03/2019
+Name: TBA
+City: Macau
+Country: Macau
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 03/05/2019
+Name: SM Mall Of Asia
+City: Manila
+Country: Philippines
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 03/07/2019
+Name: NATIONAL STADIUM
+City: Singapore
+Country: Singapore
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 03/09/2019
+Name: CHALLENGER HALL
+City: Bangkok
+Country: Thailand
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 06/01/2019
+Name: Mollenpark
+Country: Denmark
+City: Aalborg
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 06/03/2019
+Name: Lanxess Arena
+City: Cologne
+Country: Germany
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 06/05/2019
+Name: O2 ARENA
+City: Prague
+Country: Czech Republic
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 06/06/2019
+Name: Tauron Arena
+City: Kraków
+Country: Poland
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 06/10/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 06/11/2019
+Name: AccorHotels Arena
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Travis Scott
+Song: CAN'T SAY
+Album: ASTROWORLD
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/26cde6756e631b05cb8b83e99bec8eac00980073?cid=5eea2d25d5e346c9a027cacab09ceabe
+
+---------------------------------------------------
+
+Title: Batman
+Release Year: 1989
+IMDB Rating: 7.5
+Country: USA, UK
+Rotten Tomatoes Rating: 72%
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+
+---------------------------------------------------
+
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=5eea2d25d5e346c9a027cacab09ceabe
+Album: The Hits--Chapter One
+Song: I Want It That Way
+
+---------------------------------------------------
+
+Liri doesn't know that yet..
+
+--------------------------------
+
+Date: 02/19/2019
+Name: Brisbane Entertainment Centre
+Country: Australia
+
+---------------------------------------------------
+
+City: Brisbane
+
+--------------------------------
+
+Date: 02/21/2019
+Name: Qudos Bank Arena
+City: Sydney
+Country: Australia
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 02/22/2019
+Name: Rod Laver Arena
+City: Melbourne
+Country: Australia
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 02/25/2019
+Name: Tokyo Dome
+City: Tokyo
+Country: Tokyo
+Country: Japan
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 02/27/2019
+Name: Gocheok Sky Dome
+City: Seoul
+Country: South Korea
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 03/01/2019
+Name: TBA
+City: Kaohsiung City
+Country: Taiwan
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 03/03/2019
+Name: TBA
+City: Macau
+Country: Macau
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 03/05/2019
+Name: SM Mall Of Asia
+City: Manila
+Country: Philippines
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 03/07/2019
+Name: NATIONAL STADIUM
+City: Singapore
+Country: Singapore
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 03/09/2019
+Name: CHALLENGER HALL
+City: Bangkok
+Country: Thailand
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 06/01/2019
+Name: Mollenpark
+City: Aalborg
+Country: Denmark
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 06/03/2019
+Name: Lanxess Arena
+City: Cologne
+Country: Germany
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 06/05/2019
+Name: O2 ARENA
+City: Prague
+Country: Czech Republic
+
+---------------------------------------------------
+
+Date: 06/06/2019
+
+--------------------------------
+
+Name: Tauron Arena
+City: Kraków
+Country: Poland
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 06/10/2019
+Name: Ziggo Dome
+City: Amsterdam
+Country: Netherlands
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 06/11/2019
+Name: AccorHotels Arena
+City: Paris
+Country: France
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Julia Michaels
+Preview: https://p.scdn.co/mp3-preview/8c0563c907c9415db2c1f73220340325d27dd84d?cid=5eea2d25d5e346c9a027cacab09ceabe
+Album: Jump (with Trippie Redd)
+
+---------------------------------------------------
+
+Song: Jump (with Trippie Redd)
+
+---------------------------------------------------
+
+Title: Batman
+IMDB Rating: 7.5
+Release Year: 1989
+Language: English, French, Spanish
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+Rotten Tomatoes Rating: 72%
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+Country: USA, UK
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=5eea2d25d5e346c9a027cacab09ceabe
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Liri doesn't know that yet..
