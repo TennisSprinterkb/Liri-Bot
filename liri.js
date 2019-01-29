@@ -28,7 +28,7 @@ function switchCase() {
         break;
 
         default:
-        loggedIt("Invalid");
+        logIt("Invalid");
         break;
     }
 };
@@ -78,6 +78,7 @@ function bandsInTown(parameter) {
 function spotSong(parameter) {
     var searchSong;
     if (parameter === undefined) {
+        console.log("searching... ");
         searchSong = "The Sign by Ace of Base";
 }else {
     searchSong = parameter;
@@ -103,6 +104,7 @@ spotify.search({
 function movieInfo(parameter) {
     var findMovie;
     if (parameter === undefined) {
+        console.log("searching... ")
         findMovie = "Mr.Nobody";
     } else {
         findMovie = parameter;

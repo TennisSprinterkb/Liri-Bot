@@ -539,3 +539,251 @@ Country: France
 
 City: Paris
 Name: AccorHotels Arena
+Invalid
+
+--------------------------------
+
+Date: 02/19/2019
+Name: Brisbane Entertainment Centre
+
+---------------------------------------------------
+
+Country: Australia
+
+--------------------------------
+
+City: Brisbane
+Date: 02/21/2019
+Country: Australia
+Name: Qudos Bank Arena
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 02/22/2019
+Name: Rod Laver Arena
+Country: Australia
+City: Melbourne
+
+---------------------------------------------------
+
+Date: 02/25/2019
+Name: Tokyo Dome
+
+--------------------------------
+
+Country: Tokyo
+City: Tokyo
+
+---------------------------------------------------
+
+City: Sydney
+
+--------------------------------
+
+Name: Gocheok Sky Dome
+City: Seoul
+Date: 02/27/2019
+Country: South Korea
+
+---------------------------------------------------
+
+Date: 03/01/2019
+
+--------------------------------
+
+Name: TBA
+City: Kaohsiung City
+Country: Taiwan
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Country: Japan
+Date: 03/03/2019
+Country: Macau
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Date: 03/05/2019
+Name: SM Mall Of Asia
+City: Manila
+Country: Philippines
+
+---------------------------------------------------
+
+Name: TBA
+City: Macau
+Name: NATIONAL STADIUM
+City: Singapore
+Date: 03/07/2019
+
+--------------------------------
+
+
+---------------------------------------------------
+
+Country: Singapore
+
+--------------------------------
+
+Name: CHALLENGER HALL
+City: Bangkok
+Date: 03/09/2019
+
+---------------------------------------------------
+
+Date: 06/01/2019
+Country: Thailand
+
+--------------------------------
+
+Country: Denmark
+City: Aalborg
+Name: Mollenpark
+
+---------------------------------------------------
+
+Date: 06/03/2019
+Name: Lanxess Arena
+Country: Germany
+
+---------------------------------------------------
+
+
+--------------------------------
+
+City: Cologne
+
+--------------------------------
+
+City: Prague
+Date: 06/05/2019
+Country: Czech Republic
+
+---------------------------------------------------
+
+Name: O2 ARENA
+Name: Tauron Arena
+Date: 06/06/2019
+City: Kraków
+Country: Poland
+
+--------------------------------
+
+
+---------------------------------------------------
+
+
+--------------------------------
+
+City: Amsterdam
+Date: 06/10/2019
+
+---------------------------------------------------
+
+
+--------------------------------
+
+Country: Netherlands
+Name: AccorHotels Arena
+City: Paris
+Name: Ziggo Dome
+
+---------------------------------------------------
+
+Date: 06/11/2019
+Country: France
+
+---------------------------------------------------
+
+Artist: Karaoke Box
+Album: Karaoke Box: Reggae Greatest Hits
+Song: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/bf8a23ccd1a586e257521afbd9e28a281edb5446?cid=5eea2d25d5e346c9a027cacab09ceabe
+
+---------------------------------------------------
+
+Artist: Karaoke Box
+Album: Karaoke Box: Reggae Greatest Hits
+Preview: https://p.scdn.co/mp3-preview/bf8a23ccd1a586e257521afbd9e28a281edb5446?cid=5eea2d25d5e346c9a027cacab09ceabe
+
+---------------------------------------------------
+
+Song: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+
+---------------------------------------------------
+
+Artist: Nicki Minaj
+Song: Chun-Li
+Album: Queen
+
+---------------------------------------------------
+
+Preview: null
+
+---------------------------------------------------
+
+Release Year: 2009
+Title: Mr. Nobody
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+IMDB Rating: 7.9
+Language: English, Mohawk
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Title: John Wick
+Release Year: 2014
+Rotten Tomatoes Rating: 87%
+IMDB Rating: 7.3
+Plot: An ex-hit-man comes out of retirement to track down the gangsters that killed his dog and took everything from him.
+Country: China, USA
+Actors: Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe
+Language: English, Russian, Hungarian
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Release Year: 2006
+Title: Little Miss Sunshine
+Rotten Tomatoes Rating: 91%
+IMDB Rating: 7.8
+Language: English
+Plot: A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.
+Actors: Abigail Breslin, Greg Kinnear, Paul Dano, Alan Arkin
+
+---------------------------------------------------
+
+Country: USA
+
+---------------------------------------------------
+
+Title: Batman
+Release Year: 1989
+Rotten Tomatoes Rating: 72%
+Language: English, French, Spanish
+Country: USA, UK
+Plot: The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+
+---------------------------------------------------
+
+Actors: Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+IMDB Rating: 7.5
