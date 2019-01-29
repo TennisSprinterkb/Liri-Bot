@@ -3,7 +3,7 @@ var keys = require("./keys.js");
 var fs = require("fs");
 var request = require('request');
 var Spotify = require('node-spotify-api');
-var spotify = new spotify(keys.spotify);
+var spotify = new Spotify(keys.spotify);
 
 var action = process.argv[2];
 var parameter = process.argv[3];
@@ -36,18 +36,18 @@ function switchCase() {
 function bandsInTown(parameter) {
     if (action === 'concert-this')
     {
-        var movieName="";
+        var artistName="";
         for (var i = 3; i < process.argv.length; i++)
         {
-            movieName+=process.argv[i];
+            artistName+=process.argv[i];
         }
-        console.log(movieName);
+        console.log(artistName + " searching... ");
     }
     else
     {
-        movieName = parameter;
+        artistName = parameter;
     }
-    var queryUrl = "https://rest.bandsintown.com/artists/" + movieName + "/events?app_id=codingbootcamp";
+    var queryUrl = "https://rest.bandsintown.com/artists/" + artistName + "/events?app_id=codingbootcamp";
 
     request(queryUrl, function(error, response, body) {
         if (!error && response.statusCode === 200) {
@@ -58,7 +58,7 @@ function bandsInTown(parameter) {
                 var month = dTime.substring(5,7);
                 var year = dTime.substring(0,4);
                 var day = dTime.substring(8,10);
-                var dateform = month + "/" + day + "/" + year
+                var dateForm = month + "/" + day + "/" + year
 
                 logIt("\n--------------------------------\n");
 
