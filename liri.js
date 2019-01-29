@@ -28,7 +28,7 @@ function switchCase() {
         break;
 
         default:
-        logIt("Invalid");
+        logIt("Liri doesn't know that yet..");
         break;
     }
 };
